@@ -1,0 +1,4 @@
+.
+https://tailwindcss.com/docs/installation/using-vite
+
+YouTube Source: https://www.youtube.com/watch?v=OJmj1Oq5gto
