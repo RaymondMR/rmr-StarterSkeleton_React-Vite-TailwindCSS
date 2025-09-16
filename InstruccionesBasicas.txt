@@ -1,4 +1,16 @@
-.
-https://tailwindcss.com/docs/installation/using-vite
+Comandos para iniciar y arrancar el Proyecto:
+1.-Crea un foldel y abre VS Code en ese folder
+2.-Abre una nueva terminal
+3.-y Corre este comando:
+	npm create vite@latest frontend --template react
+4.- cd frontend
+5.- npm install
+6.- npm install tailwindcss @tailwindcss/vite
+7.-Configure vite to import the vite plug-in rect
+	open the vite.config.js
+
+write: import tailwindcss from '@tailwindcss/vite'
+
+ver https://tailwindcss.com/docs/installation/using-vite
 
 YouTube Source: https://www.youtube.com/watch?v=OJmj1Oq5gto
